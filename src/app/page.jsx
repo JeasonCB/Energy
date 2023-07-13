@@ -1,6 +1,4 @@
 'use client'
-import Hero from '@/components/hero'
-import Test from '@/components/test'
 import { motion } from 'framer-motion'
 export default function Home () {
   return (
